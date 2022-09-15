@@ -1,2 +1,2 @@
-# zaperoco-.com
-Sistema  Agendar citas pacientes de clinica
+#Zaperoko.com
+Sistema  para agendar citas a pacientes de clinica
